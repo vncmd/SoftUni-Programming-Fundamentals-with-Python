@@ -4,3 +4,6 @@ Repository with solutions of problems in SoftUni course: Programming Fundamental
 Link to SoftUni: 
 https://softuni.bg/ 
 Link to Programming Fundamentals with Python - January 2023: https://softuni.bg/trainings/3953/programming-fundamentals-with-python-january-2023
+
+Link to Judge system:
+https://judge.softuni.org/
