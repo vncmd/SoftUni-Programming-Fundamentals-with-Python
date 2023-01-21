@@ -6,4 +6,5 @@ for i in range(nums):
     letter = input()
     total_sum += ord(letter)
 
-    print(total_sum)
+print(f"The sum equals: {total_sum}")
+
