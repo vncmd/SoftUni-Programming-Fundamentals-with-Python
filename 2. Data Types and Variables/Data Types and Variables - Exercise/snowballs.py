@@ -1,13 +1,18 @@
-num_snowball = int(input())
+n = int(input())
 
 highest_snowball = 0
 best_snowball = float("-inf")
-for i in range(num_snowball):
+output = ""
+for idx in range(n):
     weight = int(input())
     time = int(input())
     quality = int(input())
-    value = (weight // time) ** quality
-    if value > best_snowball:
-        best_snowball = value
-        print(f"{weight} : {time} = {value} ({quality})")
+
+    result = (weight // time) ** quality
+
+    if result > best_snowball:
+        best_snowball = result
+        output = f"{weight} : {time} = {result} ({quality})"
+
+print(output)
 
