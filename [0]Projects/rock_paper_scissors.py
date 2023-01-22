@@ -1,4 +1,4 @@
-import random
+from random import randint
 from colorama import Fore
 
 rock = "Rock"
@@ -16,7 +16,7 @@ elif player_move == "s":
 else:
     raise SystemExit("Invalid Input. Try again...")
 
-computer_random_num = random.randint(1, 3)
+computer_random_num = randint(1, 3)
 
 computer_move = ""
 if computer_random_num == 1:
@@ -29,10 +29,13 @@ else:
 if (player_move == rock and computer_move == scissors) or \
         (player_move == paper and computer_move == rock) or \
         (player_move == scissors and computer_move == paper):
+    print(f"{Fore.CYAN}The computer chose {computer_move}.")
     print(f"{Fore.GREEN}YESS !!! | You win!")
 elif player_move == computer_move:
+    print(f"{Fore.CYAN}The computer chose {computer_move}.")
     print(f"{Fore.LIGHTBLUE_EX}SOO CLOSE!!! | You draw!")
 else:
+    print(f"{Fore.CYAN}The computer chose {computer_move}.")
     print(f"{Fore.RED}RETRY!!! | You lost!")
 
 
