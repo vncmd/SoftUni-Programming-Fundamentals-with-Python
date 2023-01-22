@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8c35d79-f8b0-4196-9316-3858e235b129" name="Changes" comment="Program that calculates expenses  of a gladiator.">
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/Documentation file for the exercises" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/Documentation file for the exercises" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/chat_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/christmas_spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/christmas_spirit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/double_char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/drink_something.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/easter_bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/easter_bread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/how_much_coffee_you_need.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/how_much_coffee_you_need.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/jenny_secret_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/jenny_secret_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/maximum_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/maximum_multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/mutate_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/mutate_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/sorting_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/sorting_hat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/string_pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Exercise/string_pureness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/Documentation file for the exercises" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/Documentation file for the exercises" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/largest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/largest_of_three_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/number_definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/number_definer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/numbers_between_1_and_100.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/numbers_between_1_and_100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/word_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/Basic Syntax, Conditional Statements and Loops  - Lab/word_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Basic Syntax, Conditional Statements and Loops/README" beforeDir="false" afterPath="$PROJECT_DIR$/[1] Basic Syntax, Conditional Statements and Loops/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/chars_to_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/chars_to_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/elevator.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/elevator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/gladiator_expenses.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/gladiator_expenses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/integer_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/integer_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/party_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/party_profit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/print_part_of_the_ascii_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/print_part_of_the_ascii_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/snowballs.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/snowballs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/sum_of_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/sum_of_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/triples_of_latin_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/triples_of_latin_letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Exercise/water_overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Lab/centuries_to_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Lab/centuries_to_minutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Lab/concat_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Lab/concat_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Lab/convert_meters_to_kilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Lab/convert_meters_to_kilometers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Lab/next_happy_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Lab/next_happy_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Lab/pound_to_dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Lab/pound_to_dollars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Lab/special_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Lab/special_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Lab/special_numbers_v_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/[2] Data Types and Variables/Data Types and Variables - Lab/special_numbers_v_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e3fc2b8c-489b-454c-9412-74360c196cc3" />
+        <option name="url" value="https://github.com/vncmd/SoftUni-Programming-Fundamentals-with-Python.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KbbaaGr3CQQUpjXaEmW7QtPFJT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.gladiator_expenses">
+    <configuration name="gladiator_expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Fundamentals-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/gladiator_expenses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="party_profit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Fundamentals-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/party_profit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snowballs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Fundamentals-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/snowballs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triples_of_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Fundamentals-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/triples_of_latin_letters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="water_overflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Fundamentals-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/Data Types and Variables - Exercise/water_overflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gladiator_expenses" />
+        <item itemvalue="Python.party_profit" />
+        <item itemvalue="Python.snowballs" />
+        <item itemvalue="Python.water_overflow" />
+        <item itemvalue="Python.triples_of_latin_letters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8c35d79-f8b0-4196-9316-3858e235b129" name="Changes" comment="" />
+      <created>1674246315974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674246315974</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added exercise that converts meters to kilometers.">
+      <created>1674281421653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674281421653</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added exercise that converts from centuries in years, days, hours, and minutes.">
+      <created>1674282231101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674282231101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added exercise that finds if there are special numbers when sum of them are 5, 7, or 11.">
+      <created>1674283144503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674283144503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Different way to formulate the exercise that finds if there are special numbers when sum of them are 5, 7, or 11.">
+      <created>1674283490551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674283490551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Program that greets on next year but with only distinct digits in it.">
+      <created>1674284700446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674284700446</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Operations between four integer numbers.">
+      <created>1674290364294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674290364294</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Concatenation of three characters.">
+      <created>1674290531274</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674290531274</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Program that calculates how many courses are needed to be done to respect of how many people.">
+      <created>1674290771781</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674290771781</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Program that calculates sums letters from ASCII table.">
+      <created>1674291231747</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674291231747</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Program that calculates sums letters from ASCII table.">
+      <created>1674291374136</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674291374136</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Program that displays characters from ASCII table.">
+      <created>1674291807978</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674291807978</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added print function.">
+      <created>1674291939393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674291939393</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Program that reads integer number and prints all triples of latin letters ordered alphabetically.">
+      <created>1674294872916</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674294872916</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Program that calculates poured liters into a tank and if poured liters are more to the action.">
+      <created>1674295508538</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674295508538</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Program that finds the highest snowball.">
+      <created>1674302390576</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674302390576</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Program that calculates the profit for different events respectively.">
+      <created>1674304142253</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674304142253</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Program that calculates expenses  of a gladiator.">
+      <created>1674385594127</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674385594127</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="026bbb91-e9fc-431a-b89c-9d9524f47d05">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/vddim/Documents/GitHub/SoftUni-Fundamentals-with-Python/1.Basic Syntax, Conditional Statements and Loops" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="026bbb91-e9fc-431a-b89c-9d9524f47d05" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added exercise that converts meters to kilometers." />
+    <MESSAGE value="Added exercise that converts from centuries in years, days, hours, and minutes." />
+    <MESSAGE value="Added exercise that finds if there are special numbers when sum of them are 5, 7, or 11." />
+    <MESSAGE value="Different way to formulate the exercise that finds if there are special numbers when sum of them are 5, 7, or 11." />
+    <MESSAGE value="Program that greets on next year but with only distinct digits in it." />
+    <MESSAGE value="Operations between four integer numbers." />
+    <MESSAGE value="Concatenation of three characters." />
+    <MESSAGE value="Program that calculates how many courses are needed to be done to respect of how many people." />
+    <MESSAGE value="Program that calculates sums letters from ASCII table." />
+    <MESSAGE value="Program that displays characters from ASCII table." />
+    <MESSAGE value="Added print function." />
+    <MESSAGE value="Program that reads integer number and prints all triples of latin letters ordered alphabetically." />
+    <MESSAGE value="Program that calculates poured liters into a tank and if poured liters are more to the action." />
+    <MESSAGE value="Program that finds the highest snowball." />
+    <MESSAGE value="Program that calculates the profit for different events respectively." />
+    <MESSAGE value="Program that calculates expenses  of a gladiator." />
+    <option name="LAST_COMMIT_MESSAGE" value="Program that calculates expenses  of a gladiator." />
+  </component>
+</project>
