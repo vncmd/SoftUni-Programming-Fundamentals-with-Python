@@ -1,5 +1,5 @@
 # In order to play and test the [Rock,Paper,Scissors] game go to: https://replit.com/@vncmd/Rock-Paper-Scissors 
-In order to play and test other games go to directory of the project and follow the README file for more instructions.
+In order to play and test other games go to the directory of the project and follow the README file for more instructions.
 
 Click on RUN to run the program.
 Enjoy the game, and have fun!
