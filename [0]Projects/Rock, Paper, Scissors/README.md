@@ -1,4 +1,4 @@
-# In order to play and test the [Rock, Paper, Scissors] go to: https://replit.com/@vncmd/Guess-a-number
+# In order to play and test the [Rock, Paper, Scissors] go to: https://replit.com/@vncmd/Rock-Paper-Scissors
 
 Click on RUN to run the program.
 Enjoy the game, and have fun!
