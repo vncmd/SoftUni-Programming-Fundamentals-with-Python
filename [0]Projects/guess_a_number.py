@@ -14,13 +14,11 @@ while True:
 
     if player_number == computer_num:
         print(f"{Fore.GREEN}Well, you guessed it!")
-        break
 
     elif player_number > computer_num:
         print(f"{Fore.LIGHTYELLOW_EX}That's... Too High!")
-        break
 
     else:
         print(f"{Fore.LIGHTYELLOW_EX}Nope... that's Too Low!")
-        break
+
 
