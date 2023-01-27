@@ -19,7 +19,6 @@ for nums in range(n):
         odd.append(current_num)
 
 command = input()
-
 if command == "even":
     print(even)
 elif command == "odd":
