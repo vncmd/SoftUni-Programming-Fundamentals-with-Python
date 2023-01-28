@@ -1,18 +1,18 @@
 text = input()
 
-check_for_wolf = text.split(", ")
-check_for_number = len(check_for_wolf) - 1
+wolf_check = text.split(", ")
+number_check = len(wolf_check) - 1
 
-text_to_print = ""
+printed_text = ""
 
-for wolf in check_for_wolf:
+for wolf in wolf_check:
 
-    if wolf == "wolf" and check_for_number == 0:
-        text_to_print = "Please go away and stop eating my sheep"
+    if wolf == "wolf" and number_check == 0:
+        printed_text = "Please go away and stop eating my sheep"
 
     elif wolf == "wolf":
-        text_to_print = f"Oi! Sheep number {check_for_number}! You are about to be eaten by a wolf!"
+        printed_text = f"Oi! Sheep number {number_check}! You are about to be eaten by a wolf!"
 
-    check_for_number -= 1
+    number_check -= 1
 
-print(text_to_print)
+print(printed_text)
