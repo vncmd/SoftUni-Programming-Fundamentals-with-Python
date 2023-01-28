@@ -4,6 +4,6 @@ boundary = int(input())
 result = []
 
 for num in range(1, boundary + 1):
-    result.append(num * boundary)
+    result.append(num * factor)
 
 print(result)
