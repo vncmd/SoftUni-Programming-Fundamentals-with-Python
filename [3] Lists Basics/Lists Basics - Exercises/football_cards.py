@@ -1,7 +1,6 @@
 cards = input().split()
 
 flag = False
-
 first_team_sent_off = []
 second_team_sent_off = []
 for card in cards:
