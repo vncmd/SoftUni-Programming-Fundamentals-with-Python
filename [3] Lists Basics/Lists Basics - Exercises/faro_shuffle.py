@@ -1,6 +1,7 @@
 cards = input().split()
 shuffle = int(input())
-middle = len(cards) // 2
+length = len(cards)
+mid = int(length / 2)
 
-for number_of_shuffle in range(shuffle):
+for n_shuffles in range(shuffle):
     result_after_shuffle = []
