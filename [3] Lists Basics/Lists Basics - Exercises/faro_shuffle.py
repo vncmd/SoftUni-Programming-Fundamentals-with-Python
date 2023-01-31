@@ -1,7 +1,12 @@
 cards = input().split()
-shuffle = int(input())
-length = len(cards)
-mid = int(length / 2)
+shuffles = int(input())
 
-for n_shuffles in range(shuffle):
-    result_after_shuffle = []
+first_half = []
+second_half = []
+for idx in range(shuffles):
+    card = cards [idx]
+    if idx < len(cards) / 2:
+        first_half.append(card)
+    else:
+        second_half.append(card)
+
