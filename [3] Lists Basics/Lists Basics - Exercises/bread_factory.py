@@ -26,7 +26,7 @@ for event in events:
     else:
         if total_coins >= event_value:
             total_coins -= event_value
-            print(f"You bought {type_event}")
+            print(f"You bought {type_event}.")
         else:
             print(f"Closed! Cannot afford {type_event}.")
             open_factory = False
