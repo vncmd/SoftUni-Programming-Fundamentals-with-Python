@@ -11,4 +11,4 @@ first_num_factorial = factorial(first)
 second_num_factorial = factorial(second)
 
 final_result = first_num_factorial / second_num_factorial
-print(f"{result:.2f}")
+print(f"{final_result:.2f}")
