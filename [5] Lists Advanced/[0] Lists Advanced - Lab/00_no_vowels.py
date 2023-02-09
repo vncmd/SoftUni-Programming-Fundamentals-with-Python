@@ -1,5 +1,5 @@
 text = input()
-
-result = [char for char in text if char.lower() not in ["a", "o", "e", "i"]]
+vowels = ["a", "o", "e", "i"]
+result = [char for char in text if char.lower() not in vowels]
 
 print("".join(result))
