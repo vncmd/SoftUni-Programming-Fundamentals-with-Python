@@ -1,54 +1,36 @@
-def merge_element(elements, start, end):
-    merge_result = ""
-    for i in range(start, end + 1):
-        merge_result += elements[idx]
+def merge(start, end):
+    if start < 0:
+        start = 0
+    if start < end:
+        length = len(main_str)
+        if end >= length:
+            end = length - 1
+        for num in range(start, end):
+            main_str[start] += f"{main_str.pop(start + 1)}"
 
-    return merge_result
+
+def divide(idx, partitions):
+    length = len(main_str[idx])
+    space_between = length // partitions
+    string_to_change = main_str.pop(idx)
+    result_ = []
+    for x in range(partitions - 1):
+        result_.append(string_to_change[:space_between])
+        string_to_change = string_to_change[space_between:]
+    result_.append(string_to_change)
+    for x in result_[::-1]:
+        main_str.insert(idx, x)
 
 
-words = input().split()
-line = input()
-while line != "3:1":
-    command, first_arg, second_arg = line.split()
+main_str = input().split()
+commands = input()
 
+while commands != "3:1":
+    command, start_index, end_index = [int(x) if x[-1].isdigit() else x for x in commands.split()]
     if command == "merge":
-        start_idx = int(first_arg)
-        end_idx = int(second_arg)
-
-        start_idx = max(0, start_idx)
-        end_idx = min(len(words) - 1, end_idx)
-
-        if start_idx >= end_idx:
-            continue
-
-        merged_element = merge_element(words, start_idx, end_idx)
-        remove_count_ops = end_idx - start_idx + 1
-        for _ in range(remove_count_ops):
-            words.pop(start_idx)
-        words.insert(start_idx, merged_element)
+        merge(start_index, end_index)
     elif command == "divide":
-        el_idx = int(first_arg)
-        partitions = int(second_arg)
+        divide(start_index, end_index)
+    commands = input()
 
-        element = words[el_idx]
-        elements_parts = []
-        partition_size = len(element) // partitions
-
-        current_partition = ""
-        for idx in range((partitions - 1) * partition_size):
-            current_partition += element[idx]
-            if len(current_partition) == partition_size:
-                elements_parts.append(current_partition)
-                current_partition = ""
-        current_partition = ""
-        for idx in range((partitions - 1) * partition_size, len(element)):
-            current_partition += element[idx]
-
-        elements_parts.append(current_partition)
-
-        words.pop(el_idx)
-
-        for idx in range(len(elements_parts)):
-            words.insert(el_idx + idx, elements_parts[idx])
-
-print(" ".join(words))
+print(" ".join(main_str))
