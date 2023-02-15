@@ -11,20 +11,19 @@ def merge(start, end):
 
 def divide(idx, partitions):
     length = len(words[idx])
-    space_between = length // partitions
+    space_in_between = length // partitions
     string_to_change = words.pop(idx)
-    result_ = []
+    result = []
     for x in range(partitions - 1):
-        result_.append(string_to_change[:space_between])
-        string_to_change = string_to_change[space_between:]
-    result_.append(string_to_change)
-    for x in result_[::-1]:
+        result.append(string_to_change[:space_in_between])
+        string_to_change = string_to_change[space_in_between:]
+    result.append(string_to_change)
+    for x in result[::-1]:
         words.insert(idx, x)
 
 
 words = input().split()
 line = input()
-
 while line != "3:1":
     command, start_index, end_index = [int(x) if x[-1].isdigit() else x for x in line.split()]
     if command == "merge":
