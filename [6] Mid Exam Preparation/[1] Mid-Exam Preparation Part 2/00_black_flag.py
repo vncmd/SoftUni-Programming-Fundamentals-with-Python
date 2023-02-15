@@ -1,3 +1,4 @@
+days = int(input())
 daily = int(input())
 expected = float(input())
 
