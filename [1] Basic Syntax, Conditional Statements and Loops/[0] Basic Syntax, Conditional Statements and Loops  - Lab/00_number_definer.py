@@ -1,6 +1,6 @@
 number = float(input())
 
-# Check range from input number from exercise documentation
+# Check range from input number as per exercise documentation
 
 if number == 0:
     print("zero")
