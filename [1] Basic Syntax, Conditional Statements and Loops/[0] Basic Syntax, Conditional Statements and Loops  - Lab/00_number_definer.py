@@ -1,5 +1,7 @@
 number = float(input())
 
+# Check range from input number from exercise documentation
+
 if number == 0:
     print("zero")
 elif number < 1:
