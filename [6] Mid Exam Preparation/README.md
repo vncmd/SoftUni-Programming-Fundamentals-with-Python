@@ -1,0 +1,1 @@
+Here are contained all the Mid-Examination preparation which consists of two lectures with only exercises. NOTE: The website is in bulgarian, they also do courses in english you can check it at: https://softuni.org/
