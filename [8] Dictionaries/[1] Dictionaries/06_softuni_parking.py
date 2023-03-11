@@ -1,6 +1,6 @@
 parking = {}
-number_of_cars = int(input())
-for car in range(number_of_cars):
+drivers = int(input())
+for car in range(drivers):
     current_driver = input().split()
     action = current_driver[0]
     if action == "register":
