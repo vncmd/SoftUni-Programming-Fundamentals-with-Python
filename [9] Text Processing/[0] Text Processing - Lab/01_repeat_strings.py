@@ -1,10 +1,7 @@
-sequence = input().split()
+words = input().split()
+result = ""
 
-new_sequence = ""
+for word in words:
+    result += word * len(word)
 
-for word in range(len(sequence)):
-    counter = len(sequence)
-    for repeat in range(counter):
-        new_sequence += sequence[word]
-
-print(new_sequence)
+print(result)
