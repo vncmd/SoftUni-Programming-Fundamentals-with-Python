@@ -27,7 +27,6 @@ def show_result():
     print(f"{submissions}:")
     for key in student_information:
         if student_information[key]:
-        # if len(student_information[key]) > 0:
             print(f"{key} - {student_information[key][submissions]}")
 
 
