@@ -22,7 +22,7 @@ while command != "Lumpawaroo":
         force_user, force_side = command_args
 
         for key, value in force_side_tracker.items():
-            if force_user in value:  # value is list!!!
+            if force_user in value:
                 force_side_tracker[key].pop(value.index(force_user))
                 break
 
