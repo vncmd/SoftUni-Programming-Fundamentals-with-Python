@@ -1,9 +1,3 @@
-user_command = input()
-student_information = {}
-ban_user_list = []
-submissions = "Submissions"
-
-
 def ban_user(name):
     ban_user_list.append(name)
 
@@ -28,6 +22,12 @@ def show_result():
     for key in student_information:
         if student_information[key]:
             print(f"{key} - {student_information[key][submissions]}")
+
+
+user_command = input()
+student_information = {}
+ban_user_list = []
+submissions = "Submissions"
 
 
 while user_command != "exam finished":
