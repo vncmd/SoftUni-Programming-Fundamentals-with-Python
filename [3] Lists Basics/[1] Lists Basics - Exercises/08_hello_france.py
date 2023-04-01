@@ -6,30 +6,30 @@ budget_left = budget
 selling_items = []
 train_ticket = 150
 
-for clean_text in items_accessories:
-    if "Clothes->" in clean_text:
-        text = float(clean_text.replace("Clothes->", ""))
+for item in items_accessories:
+    if "Clothes->" in item:
+        item_price = float(item.replace("Clothes->", ""))
 
-        if 0 < text <= 50 and budget_left >= text:
-            items_price.append(text)
-            budget_left -= text
-            selling_items.append(text + text * 0.40)
+        if 0 < item_price <= 50 and budget_left >= item_price:
+            items_price.append(item_price)
+            budget_left -= item_price
+            selling_items.append(item_price + item_price * 0.40)
 
-    elif "Shoes->" in clean_text:
-        text = float(clean_text.replace("Shoes->", ""))
+    elif "Shoes->" in item:
+        item_price = float(item.replace("Shoes->", ""))
 
-        if 0 < text <= 35 and budget_left >= text:
-            items_price.append(text)
-            budget_left -= text
-            selling_items.append(text + text * 0.40)
+        if 0 < item_price <= 35 and budget_left >= item_price:
+            items_price.append(item_price)
+            budget_left -= item_price
+            selling_items.append(item_price + item_price * 0.40)
 
-    elif "Accessories->" in clean_text:
-        text = float(clean_text.replace("Accessories->", ""))
+    elif "Accessories->" in item:
+        item_price = float(item.replace("Accessories->", ""))
 
-        if 0 < text < 20.50 and budget_left >= text:
-            items_price.append(text)
-            budget_left -= text
-            selling_items.append(text + text * 0.40)
+        if 0 < item_price < 20.50 and budget_left >= item_price:
+            items_price.append(item_price)
+            budget_left -= item_price
+            selling_items.append(item_price + item_price * 0.40)
 
 for n in selling_items:
     print(f"{n:.2f}", end=" ")
