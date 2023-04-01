@@ -11,12 +11,12 @@ def merge(start, end):
 
 def divide(idx, partitions):
     length = len(words[idx])
-    space_in_between = length // partitions
+    partition_size = length // partitions
     string_to_change = words.pop(idx)
     result = []
     for x in range(partitions - 1):
-        result.append(string_to_change[:space_in_between])
-        string_to_change = string_to_change[space_in_between:]
+        result.append(string_to_change[:partition_size])
+        string_to_change = string_to_change[partition_size:]
     result.append(string_to_change)
     for x in result[::-1]:
         words.insert(idx, x)
