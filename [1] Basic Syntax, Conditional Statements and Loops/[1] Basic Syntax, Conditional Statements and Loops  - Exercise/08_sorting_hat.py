@@ -1,20 +1,18 @@
 name = input()
-house = 0
-character = 0
+house = ""
 while name != "Welcome!":
-    name = name
     if name == "Voldemort":
         print("You must not speak of that name!")
         break
-    character = len(name)
+    name_length = len(name)
 
-    if character < 5:
+    if name_length < 5:
         house = f"{name} goes to Gryffindor."
-    elif character == 5:
+    elif name_length == 5:
         house = f"{name} goes to Slytherin."
-    elif character == 6:
+    elif name_length == 6:
         house = f"{name} goes to Ravenclaw."
-    elif character > 6:
+    elif name_length > 6:
         house = f"{name} goes to Hufflepuff."
     print(house)
     name = input()
