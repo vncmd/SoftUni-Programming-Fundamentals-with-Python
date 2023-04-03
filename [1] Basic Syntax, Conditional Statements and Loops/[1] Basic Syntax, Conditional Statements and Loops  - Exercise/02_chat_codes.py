@@ -6,7 +6,7 @@ for i in range(messages):
         print("Hello")
     elif number == 86:
         print("How are you?")
-    elif number < 88 and number != 86:
+    elif number < 88:
         print(f"GREAT!")
     else:
         print("Bye.")
