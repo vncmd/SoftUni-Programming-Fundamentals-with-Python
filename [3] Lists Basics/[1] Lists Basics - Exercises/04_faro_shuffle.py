@@ -25,3 +25,21 @@ for i in range(shuffles):
 
     cards = [cards[0]] + shuffled + [cards[-1]]
 print(cards)
+
+# Different solution:
+
+# deck = input().split()
+# shuffles = int(input())
+#
+# for shuffle in range(shuffles):
+#     final_deck = []
+#     middle = len(deck) // 2
+#     left_part = deck[0: middle]
+#     right_part = deck[middle::]
+#
+#     for card_idx in range(len(left_part)):
+#         final_deck.append(left_part[card_idx])
+#         final_deck.append(right_part[card_idx])
+#     deck = final_deck
+#
+# print(deck)
