@@ -33,3 +33,35 @@ if not is_at_least_two_digit(input_password):
 
 if is_valid:
     print("Password is valid")
+
+
+
+
+
+# Different solution:
+
+# def password_validation(passwrd):
+#     validation = []
+#
+#     if len(passwrd) < 6 or len(passwrd) > 10:
+#         validation.append("Password must be between 6 and 10 characters")
+#     if not passwrd.isalnum():
+#         validation.append("Password must consist only of letters and digits")
+#
+#     digit_counter = 0
+#     for character in passwrd:
+#         if character.isdigit():
+#             digit_counter += 1
+#     if digit_counter < 2:
+#         validation.append("Password must have at least 2 digits")
+#
+#     return validation
+#
+#
+# password = input()
+# not_valid = password_validation(password)
+#
+# if len(not_valid) == 0:
+#     print("Password is valid")
+# else:
+#     print('\n'.join(not_valid))
