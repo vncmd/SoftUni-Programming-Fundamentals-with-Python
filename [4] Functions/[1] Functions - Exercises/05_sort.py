@@ -1,8 +1,8 @@
 def sorted_nums(numbers):
     numbers.sort()
     for n in numbers:
-        sort_list.append(n)
-    return sort_list
+        nums_list.append(n)
+    return nums_list
 
 
 nums_list = []
