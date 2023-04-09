@@ -8,4 +8,4 @@ def sorted_nums(numbers):
 nums_list = []
 nums = [int(x) for x in input().split()]
 
-print(sorted(nums))
+print(sorted_nums(nums))
