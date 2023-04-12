@@ -26,7 +26,7 @@ while data != "Stop":
 indexes = [int(el) for el in input().split(", ")]
 
 for index, email in enumerate(emails):
-    if index in indexes_emails_sent:
+    if index in indexes:
         emails[index].send()
     print(f"{email.sender} says to {email.receiver}: "
           f"{email.content}. Sent: {email.is_sent}")
