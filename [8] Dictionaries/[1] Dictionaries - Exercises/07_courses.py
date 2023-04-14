@@ -9,8 +9,7 @@ while command != "end":
     course[language_name][student] = student
     command = input()
 
-for lang in course:
-    print(f"{lang}: {len(course[lang])}")
-    for key, value in course[lang].items():
+for language in course:
+    print(f"{language}: {len(course[language])}")
+    for key, value in course[language].items():
         print(f"-- {value}")
-
