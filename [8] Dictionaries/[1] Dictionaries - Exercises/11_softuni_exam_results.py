@@ -2,13 +2,13 @@ def ban_user(name):
     ban_user_list.append(name)
 
 
-def add_user(name, lang, score):
-    student_information[lang] = student_information.get(lang, {})
-    student_information[lang][name] = student_information[lang].get(name, 0)
-    student_information[lang][submissions] = student_information[lang].get(submissions, 0)
-    if student_information[lang][name] < score:
-        student_information[lang][name] = score
-    student_information[lang][submissions] += 1
+def add_user(name, language, score):
+    student_information[language] = student_information.get(language, {})
+    student_information[language][name] = student_information[language].get(name, 0)
+    student_information[language][submissions] = student_information[language].get(submissions, 0)
+    if student_information[language][name] < score:
+        student_information[language][name] = score
+    student_information[language][submissions] += 1
 
 
 def show_result():
