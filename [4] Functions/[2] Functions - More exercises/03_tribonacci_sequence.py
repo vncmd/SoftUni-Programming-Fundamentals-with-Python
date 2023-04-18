@@ -1,4 +1,5 @@
 def tribonacci(num):
+    last_three = [1, 1]
     for number in range(1, num + 1):
 
         if number == 1 or number == 2:
@@ -16,7 +17,5 @@ def tribonacci(num):
 
 
 starting_number = int(input())
-last_three = [1, 1]
-
 
 tribonacci(starting_number)
