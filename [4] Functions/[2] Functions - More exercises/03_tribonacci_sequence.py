@@ -1,8 +1,3 @@
-starting_number = int(input())
-
-last_three = [1, 1]
-
-
 def tribonacci(num):
     for number in range(1, num + 1):
 
@@ -18,6 +13,10 @@ def tribonacci(num):
 
         print(sum(last_three) + add_last_number, end=" ")
         last_three.append(sum(last_three) + add_last_number)
+
+
+starting_number = int(input())
+last_three = [1, 1]
 
 
 tribonacci(starting_number)
