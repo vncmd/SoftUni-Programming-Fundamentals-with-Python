@@ -14,11 +14,6 @@ def center_point(sum1, sum2, sum3, sum4):
             return f"({y3}, {y4})({x3}, {x4})"
         else:
             return f"({x3}, {x4})({y3}, {y4})"
-    else:
-        if abs(x3) + abs(x4) > abs(y3) + abs(y4):
-            return f"({y3}, {y4})({x3}, {x4})"
-        else:
-            return f"({x3}, {x4})({y3}, {y4})"
 
 
 x1, x2, y1, y2 = floor(float(input())), floor(float(input())), floor(float(input())), floor(float(input()))
