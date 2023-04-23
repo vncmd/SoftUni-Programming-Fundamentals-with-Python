@@ -5,8 +5,9 @@ Link to Software University in English: https://softuni.org/
 Link to Judge System (Where submission and evaluation of the exercises,and exams are conducted): https://judge.softuni.org/
 Link to the GitHub of Software University: https://github.com/softuni
 
-| Basic Syntax, Conditional Statements and Loops |
+| Programming Fundamentals with Python |
 |------------------------------------------------|
+| Basic Syntax, Conditional Statements and Loops |
 | Data Types and Variables                       |
 | Lists Basics                                   |
 | Functions                                      |
