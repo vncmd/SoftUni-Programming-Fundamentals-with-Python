@@ -41,3 +41,41 @@ for force_side, force_users in force_side_tracker.items():
 
         for user in force_users:
             print(f"! {user}")
+
+
+# Different solution:
+
+
+# def add_user(name, side):
+#     for users in forces.values():
+#         if name in users:
+#             return
+#     forces[side] = forces.get(side, []) + [name]
+#
+#
+# def switch_side(side, name):
+#     for sides, users in forces.items():
+#         if name in users:
+#             forces[sides].remove(name)
+#             break
+#     forces[side] = forces.get(side, []) + [name]
+#     print(f"{name} joins the {side} side!")
+#
+#
+# command = input()
+# forces = {}
+# while command != "Lumpawaroo":
+#     if "|" in command:
+#         side, name = command.split(" | ")
+#         add_user(name, side)
+#     elif "->" in command:
+#         side, name = command.split(" -> ")
+#         switch_side(name, side)
+#
+#     command = input()
+#
+# for side, members in forces.items():
+#     if members:
+#         print(f"Side: {side}, Members: {len(members)}")
+#         for user in members:
+#             print(f"! {user}")
