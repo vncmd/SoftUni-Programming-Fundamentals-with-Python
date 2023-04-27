@@ -20,3 +20,40 @@ for car in range(drivers):
             del parking[username]
 for username, license_plate_number in parking.items():
     print(f"{username} => {license_plate_number}")
+
+# Different solution:
+
+
+# def register_car(name, number):
+#     if name in parking_data:
+#         print(f"ERROR: already registered with plate number {parking_data[name]}")
+#         return
+#     parking_data[name] = number
+#     print(f"{name} registered {number} successfully")
+#
+#
+# def unregister_car(name):
+#     if name not in parking_data:
+#         print(f"ERROR: user {name} not found")
+#         return
+#     del parking_data[name]
+#     print(f"{name} unregistered successfully")
+#
+#
+# def all_cars():
+#     for key, value in parking_data.items():
+#         print(f"{key} => {value}")
+#
+#
+# number_cars = int(input())
+# parking_data = {}
+#
+# for _ in range(number_cars):
+#     command, name, *number = input().split()
+#     if command == "register":
+#         number = number[-1]
+#         register_car(name, number)
+#     else:
+#         unregister_car(name)
+#
+# all_cars()
