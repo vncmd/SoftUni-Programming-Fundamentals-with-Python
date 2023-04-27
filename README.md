@@ -3,9 +3,9 @@ Repository with solutions of problems in Software University course: Programming
 Link to Software University in Bulgarian: https://softuni.bg/
 Link to Software University in English: https://softuni.org/
 Link to Judge System (Where submission and evaluation of the exercises,and exams are conducted): https://judge.softuni.org/
-Link to the GitHub of Software University: https://github.com/softuni
+Link to the GitHub of Software University: https://github.com/softuni 
 
-| Programming Fundamentals with Python |
+| Programming Fundamentals with Python Exercises content |
 |------------------------------------------------|
 | Basic Syntax, Conditional Statements and Loops |
 | Data Types and Variables                       |
