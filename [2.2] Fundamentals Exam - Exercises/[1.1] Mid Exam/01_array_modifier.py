@@ -37,3 +37,28 @@ while command != "end":
 str_numbers = list(map(lambda x: str(x), numbers))
 
 print(", ".join(str_numbers))
+
+
+# Different solution:
+
+# elements = [int(x) for x in input().split()]
+#
+# data = input()
+# while data != "end":
+#     if "decrease" in data:
+#         elements = [x - 1 for x in elements]
+#
+#         data = input()
+#         continue
+#
+#     command, first_idx, second_idx = [x if x.isalpha() else int(x) for x in data.split()]
+#
+#     if command == "swap":
+#         elements[first_idx], elements[second_idx] = elements[second_idx], elements[first_idx]
+#
+#     elif command == "multiply":
+#         elements[first_idx] *= elements[second_idx]
+#
+#     data = input()
+#
+# print(*elements, sep=", ")
