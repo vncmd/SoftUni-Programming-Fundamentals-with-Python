@@ -48,3 +48,38 @@ while command != "End":
     command = input()
 
 print(*targets, sep="|")
+
+
+# Different solution:
+
+# targets = [int(x) for x in input().split()]
+# data = input()
+#
+# while data != "End":
+#     command, idx, value = [int(x) if x[-1].isdigit() else x for x in data.split()]
+#     valid_idx = True
+#     if not 0 <= idx < len(targets):
+#         valid_idx = False
+#
+#     elif command == "Shoot":
+#         targets[idx] -= value
+#         if targets[idx] <= 0:
+#             del targets[idx]
+#
+#     if command == "Add":
+#         if valid_idx:
+#             targets.insert(idx, value)
+#         else:
+#             print("Invalid placement!")
+#
+#     elif command == "Strike" and valid_idx:
+#         start_radius = idx - value
+#         end_radius = idx + value + 1
+#         if 0 <= start_radius < end_radius < len(targets):
+#             del targets[start_radius:end_radius]
+#         else:
+#             print("Strike missed!")
+#
+#     data = input()
+#
+# print(*targets, sep="|")
