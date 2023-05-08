@@ -1,0 +1,1 @@
+Here are contained some of the exercises used to preparate for Mid-Exams and Final-Exams for the Fundamentals course with Python at SoftUni. NOTE: The website is in bulgarian, they also do courses in english you can check it at: https://softuni.org/
